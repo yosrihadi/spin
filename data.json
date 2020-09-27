@@ -2,13 +2,17 @@
 "colorArray":[ "#364C62", "#F1C40F", "#E67E22", "#E74C3C", "#ECF0F1", "#95A5A6", "#16A085", "#27AE60", "#2980B9", "#8E44AD", "#2C3E50", "#F39C12", "#D35400", "#C0392B", "#BDC3C7","#1ABC9C", "#2ECC71", "#E87AC2", "#3498DB", "#9B59B6", "#7F8C8D"],
 
 "segmentValuesArray" : [
-  {"probability":1, "type": "string", "value": "نهاية حبيب", "win": true, "resultText": "YOUR COUPON CODE IS 50%GANNON.TV", "userData": {"score":1000000}},
-  {"probability":16, "type": "image", "value": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/35984/tip_sqr.svg", "win": false, "resultText": "NOBODY LIKES A SQUARE :&#40;", "userData": {"score":0}},
-  {"probability":16, "type": "string", "value": "5% OFF^VOUCHER", "win": true, "resultText": "YOUR COUPON CODE IS FIVEME", "userData": {"score":1000000}},
-  {"probability":16, "type": "image", "value": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/35984/tip_oct.svg", "win": false, "resultText": "LOSE WITH AN OCTAGON!", "userData": {"score":0}},
-  {"probability":16, "type": "image", "value": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/35984/tip_circle.svg", "win": false, "resultText": "A CIRCLE IS A WINNER!", "userData": {"score":0}},
-  {"probability":16, "type": "image", "value": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/35984/tip_hex.svg", "win": false, "resultText": "A HEXAGON IS A LOSE", "userData": {"score":0}}, 
-  {"probability":19, "type": "string", "value": "LOSE ALL", "win": false, "resultText": "YOU LOSE EVERYTHING!", "userData": {"score":2}}
+  {"probability":1, "type": "string", "value": "1نهاية حبيب", "win": true, "resultText": "نهاية حبيب", "userData": {"score":1000000}},
+  {"probability":2, "type": "string", "value": "2نهاية حبيب", "win": true, "resultText": "نهاية حبيب", "userData": {"score":1000000}},
+  {"probability":3, "type": "string", "value": "3نهاية حبيب", "win": true, "resultText": "نهاية حبيب", "userData": {"score":1000000}},
+  {"probability":4, "type": "string", "value": "4نهاية حبيب", "win": true, "resultText": "نهاية حبيب", "userData": {"score":1000000}},
+  {"probability":5, "type": "string", "value": "5نهاية حبيب", "win": true, "resultText": "نهاية حبيب", "userData": {"score":1000000}},
+  {"probability":6, "type": "string", "value": "6نهاية حبيب", "win": true, "resultText": "نهاية حبيب", "userData": {"score":1000000}},
+  {"probability":7, "type": "string", "value": "7نهاية حبيب", "win": true, "resultText": "نهاية حبيب", "userData": {"score":1000000}},
+  {"probability":8, "type": "string", "value": "8نهاية حبيب", "win": true, "resultText": "نهاية حبيب", "userData": {"score":1000000}},
+  {"probability":9, "type": "string", "value": "9نهاية حبيب", "win": true, "resultText": "نهاية حبيب", "userData": {"score":1000000}},
+  {"probability":10, "type": "string", "value": "10نهاية حبيب", "win": true, "resultText": "نهاية حبيب", "userData": {"score":1000000}},
+
 ],
 
   "svgWidth": 1024,
